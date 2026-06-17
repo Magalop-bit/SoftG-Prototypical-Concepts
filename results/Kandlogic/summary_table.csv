@@ -1,0 +1,5 @@
+method,primitive_acc_mean,primitive_acc_std,primitive_f1_mean,primitive_f1_std,scene_acc_mean,scene_acc_std,scene_f1_mean,scene_f1_std,train_time_s_mean,train_time_s_std
+SoftG,8.8422,9.4092,4.0084,4.4781,73.8800,9.8271,76.3097,9.8641,8.4222,0.1215
+SoftGk,11.4344,8.6151,4.8804,3.8545,73.3700,5.8907,77.1047,5.1662,7.3712,0.1131
+Soft-PNet,81.6633,4.8061,75.2940,5.5912,86.1200,5.1749,86.9516,5.1411,21.0732,0.8456
+PNet+SL,82.6700,7.0258,78.4027,8.0406,77.7400,5.5610,77.7155,5.6132,29.3358,1.2051
