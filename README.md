@@ -1,4 +1,4 @@
-Soft Symbol Grounding for Prototypical Concepts
+# Soft Symbol Grounding for Prototypical Concepts
 
 This repository holds the code for our paper *Soft Symbol Grounding for Prototypical Concepts* (Galván-López, Upreti, Aguilar-Ibáñez, Calvo, and Belle).
 
