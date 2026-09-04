@@ -37,3 +37,7 @@ If you use this code, please cite the paper:
 > Galván-López, Upreti, Aguilar-Ibáñez, Calvo, and Belle. *Soft Symbol Grounding for Prototypical Concepts.* 2026.
 
 A BibTeX entry will be added once the paper is published.
+
+## Download here!
+
+Personal website: [https://magalop-bit.github.io/portafolio/softpnet.html] (It will be replaced when the proceedings are released).
